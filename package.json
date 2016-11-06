@@ -1,0 +1,23 @@
+{
+  "name": "typescript-makefile",
+  "version": "0.0.1",
+  "description": "TypeScript Makefile Example Project",
+  "main": "build/example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanmcdermott/typescript-makefile.git"
+  },
+  "keywords": [
+    "typescript",
+    "makefile"
+  ],
+  "author": "Ryan McDermott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanmcdermott/typescript-makefile/issues"
+  },
+  "homepage": "https://github.com/ryanmcdermott/typescript-makefile#readme"
+}
