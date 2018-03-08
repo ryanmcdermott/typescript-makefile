@@ -1,4 +1,4 @@
-#typescript-makefile
+# typescript-makefile
 
 Want to easily install TypeScript into a local `node_modules` directory? Don't want to deal with Gulp, Grunt, Webpack, or whatever cool new tool is out there? Well then, use this project as your starting point for a quick and easy time using TypeScript!
 
